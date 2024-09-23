@@ -25,6 +25,32 @@ Credits to the original author and the original project, here: https://github.co
 - **New Admin Commands**:
   - Added commands for model locking and unlocking, expanding the ability to control player model availability on the server.
 
+## ConVars and Their Functions
+
+Below are the configuration variables (**ConVars**) used in **Playermodel Chooser Plus**, along with their default values and descriptions:
+
+| **ConVar**                | **Default Value** | **Description**                                                                 |
+|---------------------------|-------------------|---------------------------------------------------------------------------------|
+| `sm_mcp_immunity`          | `1`               | Enables player damage immunity while selecting models.                           |
+| `sm_mcp_autoreload`        | `1`               | Automatically reloads model list on map changes.                                 |
+| `sm_mcp_playonview`        | `0`               | Plays a sound when a player views a model in the chooser.                        |
+| `sm_mcp_playonselect`      | `0`               | Plays a sound when a player selects a model.                                     |
+| `sm_mcp_playafterrespawn`  | `1`               | Continues playing a death sound after the player respawns.                       |
+| `sm_mcp_jumpdelaymin`      | `0`               | Minimum delay (in seconds) between jump sounds.                                  |
+| `sm_mcp_jumpdelaymax`      | `0`               | Maximum delay (in seconds) between jump sounds.                                  |
+| `sm_mcp_hurtdelaymin`      | `1`               | Minimum delay (in seconds) between hurt sounds.                                  |
+| `sm_mcp_hurtdelaymax`      | `1`               | Maximum delay (in seconds) between hurt sounds.                                  |
+| `sm_mcp_mindmg`            | `15`              | Minimum damage required to trigger a hurt sound.                                 |
+| `sm_mcp_hurtpitchmin`      | `99`              | Minimum pitch for hurt sounds.                                                  |
+| `sm_mcp_hurtpitchmax`      | `101`             | Maximum pitch for hurt sounds.                                                  |
+| `sm_mcp_jumppitchmin`      | `99`              | Minimum pitch for jump sounds.                                                  |
+| `sm_mcp_jumppitchmax`      | `101`             | Maximum pitch for jump sounds.                                                  |
+| `sm_mcp_jumpvol`           | `0.1`             | Volume for jump sounds.                                                         |
+| `sm_mcp_hurtvol`           | `0.5`             | Volume for hurt sounds.                                                         |
+| `sm_mcp_spawnvol`          | `0.5`             | Volume for spawn sounds.                                                        |
+| `sm_mcp_killvol`           | `0.5`             | Volume for kill sounds.                                                         |
+| `sm_mcp_deathvol`          | `0.5`             | Volume for death sounds.                                                        |
+
 ## Known Issues and Workarounds
 
 ### VMT and VMF Files Not Added to Download Table
