@@ -11,23 +11,10 @@ Credits to the original author and the original project, here: https://github.co
 - **Sound System Overhaul**:
   - Added support for **spawn sounds**, **kill sounds**, and **configurable sound delays**. Previously, only a limited set of sounds (hurt, death, etc.) were supported, and without control over sound delay or volume.
   - Added ConVars for greater control over sound behavior, including options for pitch, volume, and timing.
-  
-- **Improved Animation Handling**:
-  - Added support for **dynamic playback rates** and **custom sequences** for different animations like **noclip** and **jump**.
-  - AlienMario’s 2020 version had basic animations, but lacked the dynamic controls and extended animation support.
-  
-- **Model Locking and Unlocking**:
-  - Introduced a more intuitive **model locking/unlocking** system with admin flag support. Previously, model accessibility was static and lacked flexibility.
-  
-- **Enhanced HUD and UI Elements**:
-  - The HUD now provides more information, including model names, skin selection, and dynamic text updates. AlienMario’s version had minimal HUD customization.
-  
-- **New Admin Commands**:
-  - Added commands for model locking and unlocking, expanding the ability to control player model availability on the server.
-
+ 
 ## ConVars and Their Functions
-
-Below are the configuration variables (**ConVars**) used in **Playermodel Chooser Plus**, along with their default values and descriptions:
+- **New convars for better fine tuning**
+  - Below are the configuration variables (**ConVars**) used in **Playermodel Chooser Plus**, along with their default values and descriptions:
 
 | **ConVar**                | **Default Value** | **Description**                                                                 |
 |---------------------------|-------------------|---------------------------------------------------------------------------------|
