@@ -3,6 +3,7 @@
 **Version**: 1.1  
 **Author**: Ribas  
 **Description**: A major improvement of AlienMario's 2020 Playermodel Chooser, offering expanded functionality, enhanced customization, and more efficient handling.
+Credits to the original author and the original project, here: https://github.com/Alienmario/ModelChooser
 
 ## Features and Improvements
 
