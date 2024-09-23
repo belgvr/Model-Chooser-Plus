@@ -1,0 +1,1575 @@
+"smartdm_shader_cache"
+{
+	"occlusion"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"wireframe_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"modulate_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"lightmappedgeneric_dx6"
+	{
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"filmdust_dx7"
+	{
+		"$dust_texture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"FillRate"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"windowimposter_dx60"
+	{
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"UnlitGeneric_DX8"
+	{
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"DebugDepth"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"blurfilterx"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"core_dx90"
+	{
+		"$corecolortexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$envmap"		"1"
+		"$flowmap"		"1"
+	}
+	"volumeclouds"
+	{
+		"$basetexture3"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$basetexture2"		"1"
+	}
+	"filmgrain"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$grain_texture"		"1"
+	}
+	"shadowmodel"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"vortwarp_dx9"
+	{
+		"$phongexponenttexture"		"1"
+		"$bumpmap"		"1"
+		"$selfillummap"		"1"
+		"$albedo"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$flowmap"		"1"
+		"$envmap"		"1"
+		"$lightwarptexture"		"1"
+		"$detail"		"1"
+		"$phongwarptexture"		"1"
+	}
+	"shatteredglass_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"decalmodulate_dx6"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"Unlittwotexture"
+	{
+		"$texture2"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"filmdust"
+	{
+		"$dust_texture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"skin_dx9"
+	{
+		"$FleshBorderTexture1D"		"1"
+		"$FleshInteriorTexture"		"1"
+		"$FleshNormalTexture"		"1"
+		"$FleshCubeTexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$detail"		"1"
+		"$FleshSubsurfaceTexture"		"1"
+		"$bumpmap"		"1"
+		"$emissiveblendbasetexture"		"1"
+		"$basetexture"		"1"
+		"$FleshInteriorNoiseTexture"		"1"
+		"$envmap"		"1"
+		"$emissiveblendtexture"		"1"
+	}
+	"aftershock_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+	}
+	"cloud"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$cloudalphatexture"		"1"
+	}
+	"sfm_integercombine_shader"
+	{
+		"$basetexture"		"1"
+		"$originaltexture"		"1"
+		"$flashlighttexture"		"1"
+		"$blurredtexture"		"1"
+	}
+	"downsample_nohdr"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"overlay_fit"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"lightmappedreflective_dx90"
+	{
+		"$reflecttexture"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$refracttexture"		"1"
+	}
+	"lightmappedgeneric_decal"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"shadow"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"decal"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"floattoscreen_vanilla"
+	{
+		"$fbtexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"rift_dx6"
+	{
+		"$texture2"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"cable_dx9"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"modulate_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"viewalpha"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"water_dx9_hdr"
+	{
+		"$reflecttexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$envmap"		"1"
+		"$refracttexture"		"1"
+	}
+	"sample4x4"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"floatcombine_autoexpose"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$bloomtexture"		"1"
+		"$exposure_texture"		"1"
+	}
+	"colorcorrection"
+	{
+		"$input_texture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"occlusion_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"ShadowBuild"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"introscreenspaceeffect_dx60"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"eyes_dx9"
+	{
+		"$basetexture"		"1"
+		"$glint"		"1"
+		"$flashlighttexture"		"1"
+		"$iris"		"1"
+	}
+	"Wireframe"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"vortwarp_dx8"
+	{
+		"$selfillummap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"shatteredglass_dx7"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"shadow_dx6"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"worldtwotextureblend_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$detail"		"1"
+	}
+	"portal_dx90"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$staticblendtexture"		"1"
+		"$alphamasktexture"		"1"
+	}
+	"sprite_dx6"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"writez_dx6"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"engine_post"
+	{
+		"$fbtexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"filmgrain_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$grain_texture"		"1"
+	}
+	"shadowmodel_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"windowimposter"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+	}
+	"sfm_downsample_shader"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"particlesphere"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"unlittwotexture_dx9"
+	{
+		"$texture2"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"water_dx90"
+	{
+		"$reflecttexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$envmap"		"1"
+		"$refracttexture"		"1"
+	}
+	"vr_distort_hud"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$distortmap"		"1"
+	}
+	"vertexlitgeneric_dx8"
+	{
+		"$FleshBorderTexture1D"		"1"
+		"$FleshInteriorTexture"		"1"
+		"$FleshNormalTexture"		"1"
+		"$FleshCubeTexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$detail"		"1"
+		"$FleshSubsurfaceTexture"		"1"
+		"$bumpmap"		"1"
+		"$emissiveblendbasetexture"		"1"
+		"$basetexture"		"1"
+		"$FleshInteriorNoiseTexture"		"1"
+		"$envmap"		"1"
+		"$emissiveblendtexture"		"1"
+	}
+	"cloud_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$cloudalphatexture"		"1"
+	}
+	"shatteredglass"
+	{
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"debugmorphaccumulator"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"decalbasetimeslightmapalphablendselfillum_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$selfillumtexture"		"1"
+	}
+	"shadowbuild_dx6"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"Eyeball"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"cable_dx8"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"worldvertextransition"
+	{
+		"$bumpmap2"		"1"
+		"$bumpmap"		"1"
+		"$albedo"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$bumpmask"		"1"
+		"$flashlighttexture"		"1"
+		"$lightwarptexture"		"1"
+		"$envmap"		"1"
+		"$basetexture2"		"1"
+		"$detail"		"1"
+		"$blendmodulatetexture"		"1"
+	}
+	"DebugNormalMap"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"showz"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"debugtangentspace"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"compositor"
+	{
+		"$basetexture"		"1"
+		"$srctexture1"		"1"
+		"$srctexture3"		"1"
+		"$flashlighttexture"		"1"
+		"$srctexture0"		"1"
+		"$srctexture2"		"1"
+	}
+	"morphaccumulate"
+	{
+		"$delta"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$sidespeed"		"1"
+	}
+	"UnlitGeneric_DX6"
+	{
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"downsample_nohdr_dx80"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"occlusion_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"sky_dx6"
+	{
+		"$phongexponenttexture"		"1"
+		"$albedo"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$selfillummask"		"1"
+		"$flashlighttexture"		"1"
+		"$lightwarptexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+		"$phongwarptexture"		"1"
+	}
+	"predator_dx60"
+	{
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"portalrefract"
+	{
+		"$basetexture"		"1"
+		"$portalmasktexture"		"1"
+		"$portalcolortexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"sfm_blurfilterx_shader"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"eyes_dx8"
+	{
+		"$basetexture"		"1"
+		"$glint"		"1"
+		"$flashlighttexture"		"1"
+		"$iris"		"1"
+	}
+	"gooinglass"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$glassenvmap"		"1"
+	}
+	"vortwarp_dx7"
+	{
+		"$selfillummap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"sfm_blurfiltery_shader"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"filmgrain_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$grain_texture"		"1"
+	}
+	"teeth_dx9"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"shadowmodel_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"unlittwotexture_dx8"
+	{
+		"$texture2"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"vertexlitgeneric_dx7"
+	{
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"cloud_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$cloudalphatexture"		"1"
+	}
+	"engine_post_dx9"
+	{
+		"$fbtexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"monitorscreen_dx9"
+	{
+		"$texture2"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"worldtwotextureblend"
+	{
+		"$bumpmap"		"1"
+		"$albedo"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$detail"		"1"
+	}
+	"particlesphere_dx9"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"decalbasetimeslightmapalphablendselfillum_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$selfillumtexture"		"1"
+	}
+	"writestencil"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"aftershock"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+	}
+	"portal_dx60"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$staticblendtexture"		"1"
+		"$alphamasktexture"		"1"
+	}
+	"modulate_dx6"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"bufferclearobeystencil_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"portalstaticoverlay_dx60"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$staticblendtexture"		"1"
+		"$alphamasktexture"		"1"
+	}
+	"VertexLitGeneric"
+	{
+		"$FleshInteriorTexture"		"1"
+		"$FleshCubeTexture"		"1"
+		"$FleshSubsurfaceTexture"		"1"
+		"$phongwarptexture"		"1"
+		"$albedo"		"1"
+		"$selfillummask"		"1"
+		"$stretch"		"1"
+		"$lightmap"		"1"
+		"$envmap"		"1"
+		"$bumpcompress"		"1"
+		"$emissiveblendtexture"		"1"
+		"$phongexponenttexture"		"1"
+		"$FleshBorderTexture1D"		"1"
+		"$FleshNormalTexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$detail"		"1"
+		"$sheenmap"		"1"
+		"$bumpmap"		"1"
+		"$bumpstretch"		"1"
+		"$emissiveblendbasetexture"		"1"
+		"$basetexture"		"1"
+		"$compress"		"1"
+		"$FleshInteriorNoiseTexture"		"1"
+		"$lightwarptexture"		"1"
+		"$sheenmapmask"		"1"
+		"$emissiveblendflowtexture"		"1"
+	}
+	"water_dx60"
+	{
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"eyerefract_dx9"
+	{
+		"$emissiveblendflowtexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$ambientoccltexture"		"1"
+		"$corneatexture"		"1"
+		"$envmap"		"1"
+		"$lightwarptexture"		"1"
+		"$emissiveblendtexture"		"1"
+		"$iris"		"1"
+	}
+	"worldvertextransition_dx9"
+	{
+		"$bumpmap2"		"1"
+		"$bumpmap"		"1"
+		"$albedo"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$bumpmask"		"1"
+		"$flashlighttexture"		"1"
+		"$lightwarptexture"		"1"
+		"$envmap"		"1"
+		"$basetexture2"		"1"
+		"$detail"		"1"
+		"$blendmodulatetexture"		"1"
+	}
+	"detail"
+	{
+		"$phongexponenttexture"		"1"
+		"$albedo"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$selfillummask"		"1"
+		"$flashlighttexture"		"1"
+		"$lightwarptexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+		"$phongwarptexture"		"1"
+	}
+	"yuv"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"SpriteCard"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$ramptexture"		"1"
+	}
+	"hdrselectrange"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$sourcemrtrendertarget"		"1"
+	}
+	"morphweight_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"refract_dx80"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$envmap"		"1"
+		"$refracttinttexture"		"1"
+		"$dudvmap"		"1"
+	}
+	"setz"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"worldtwotextureblend_dx6"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$detail"		"1"
+	}
+	"filmgrain_dx7"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$grain_texture"		"1"
+	}
+	"portalrefract_dx9"
+	{
+		"$basetexture"		"1"
+		"$portalmasktexture"		"1"
+		"$portalcolortexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"teeth_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"core_dx70"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"blurfiltery_dx80"
+	{
+		"$frametexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"floatcombine"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$bloomtexture"		"1"
+	}
+	"screenspace_general"
+	{
+		"$texture2"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$texture1"		"1"
+		"$texture3"		"1"
+	}
+	"vertexlitgeneric_dx6"
+	{
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"eyes"
+	{
+		"$basetexture"		"1"
+		"$glint"		"1"
+		"$flashlighttexture"		"1"
+		"$iris"		"1"
+	}
+	"hsv"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"monitorscreen_dx8"
+	{
+		"$texture2"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"motionblur"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"particlesphere_dx8"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"windowimposter_dx80"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+	}
+	"Refract"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$normalmap2"		"1"
+		"$envmap"		"1"
+		"$refracttinttexture"		"1"
+	}
+	"DepthWrite"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"treeleaf"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"water"
+	{
+		"$reflecttexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$envmap"		"1"
+		"$refracttexture"		"1"
+	}
+	"cable_dx6"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"hsl_filmgrain_pass2"
+	{
+		"$basetexture"		"1"
+		"$input"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"setz_dx6"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"bufferclearobeystencil_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"cloak_dx90"
+	{
+		"$phongexponenttexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$refracttinttexture"		"1"
+		"$lightwarptexture"		"1"
+	}
+	"writestencil_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"worldvertextransition_dx8"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$basetexture2"		"1"
+		"$detail"		"1"
+		"$blendmodulatetexture"		"1"
+	}
+	"decalbasetimeslightmapalphablendselfillum"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$selfillumtexture"		"1"
+	}
+	"Sprite"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"eyes_dx6"
+	{
+		"$basetexture"		"1"
+		"$glint"		"1"
+		"$flashlighttexture"		"1"
+		"$iris"		"1"
+	}
+	"vertexlitgeneric_nobump_dx8"
+	{
+		"$FleshBorderTexture1D"		"1"
+		"$FleshInteriorTexture"		"1"
+		"$FleshNormalTexture"		"1"
+		"$FleshCubeTexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$detail"		"1"
+		"$FleshSubsurfaceTexture"		"1"
+		"$bumpmap"		"1"
+		"$emissiveblendbasetexture"		"1"
+		"$basetexture"		"1"
+		"$FleshInteriorNoiseTexture"		"1"
+		"$envmap"		"1"
+		"$emissiveblendtexture"		"1"
+	}
+	"WriteZ"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"debugtextureview"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"worldvertexalpha_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"decalmodulate_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"downsample"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"portalrefract_dx8"
+	{
+		"$basetexture"		"1"
+		"$portalmasktexture"		"1"
+		"$portalcolortexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"unlittwotexture_dx6"
+	{
+		"$texture2"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"color_projection"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$frame_texture"		"1"
+	}
+	"predator"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+	}
+	"decalbasetimeslightmapalphablendselfillum_dx6"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$selfillumtexture"		"1"
+	}
+	"screenspace_general_dx9"
+	{
+		"$texture2"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$texture1"		"1"
+		"$texture3"		"1"
+	}
+	"hdrcombineto16bit"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$sourcemrtrendertarget"		"1"
+	}
+	"Teeth"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"hsl_filmgrain_pass1"
+	{
+		"$basetexture"		"1"
+		"$input"		"1"
+		"$flashlighttexture"		"1"
+		"$grain"		"1"
+	}
+	"motionblur_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"portal"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$staticblendtexture"		"1"
+		"$alphamasktexture"		"1"
+	}
+	"introscreenspaceeffect_dx80"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"volumeclouds_dx9"
+	{
+		"$basetexture3"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$basetexture2"		"1"
+	}
+	"UnlitGeneric"
+	{
+		"$phongexponenttexture"		"1"
+		"$albedo"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$selfillummask"		"1"
+		"$flashlighttexture"		"1"
+		"$lightwarptexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+		"$phongwarptexture"		"1"
+	}
+	"writestencil_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"monitorscreen"
+	{
+		"$texture2"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"lightmappedtwotexture"
+	{
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"sky"
+	{
+		"$hdrcompressedtexture1"		"1"
+		"$basetexture"		"1"
+		"$hdrbasetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$hdrcompressedtexture"		"1"
+		"$hdrcompressedtexture0"		"1"
+		"$hdrcompressedtexture2"		"1"
+	}
+	"LightmappedGeneric_DX8"
+	{
+		"$bumpmap"		"1"
+		"$albedo"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"filmdust_dx9"
+	{
+		"$dust_texture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"refract_dx90"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$normalmap2"		"1"
+		"$envmap"		"1"
+		"$refracttinttexture"		"1"
+	}
+	"blurfilterx_dx80"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"bik"
+	{
+		"$basetexture"		"1"
+		"$ytexture"		"1"
+		"$crtexture"		"1"
+		"$flashlighttexture"		"1"
+		"$cbtexture"		"1"
+	}
+	"vr_distort_texture"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$distortmap"		"1"
+	}
+	"core"
+	{
+		"$corecolortexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$envmap"		"1"
+		"$flowmap"		"1"
+	}
+	"BufferClearObeyStencil"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"bik_dx81"
+	{
+		"$basetexture"		"1"
+		"$ytexture"		"1"
+		"$crtexture"		"1"
+		"$flashlighttexture"		"1"
+		"$cbtexture"		"1"
+	}
+	"spritecard_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$ramptexture"		"1"
+	}
+	"particlelitgeneric_dx9"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"core_dx80"
+	{
+		"$corecolortexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$envmap"		"1"
+		"$refracttinttexture"		"1"
+		"$dudvmap"		"1"
+	}
+	"EyeGlint"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"eyerefract"
+	{
+		"$emissiveblendflowtexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$ambientoccltexture"		"1"
+		"$corneatexture"		"1"
+		"$envmap"		"1"
+		"$lightwarptexture"		"1"
+		"$emissiveblendtexture"		"1"
+		"$iris"		"1"
+	}
+	"sprite_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"teeth_dx6"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"writez_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"debugtextureview_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"morphweight"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"windowimposter_dx90"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+	}
+	"accumbuff4sample"
+	{
+		"$texture0"		"1"
+		"$texture2"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$texture1"		"1"
+		"$texture3"		"1"
+	}
+	"DebugDrawEnvmapMask"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"lightmappedreflective"
+	{
+		"$reflecttexture"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$refracttexture"		"1"
+	}
+	"debugmrttexture"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"introscreenspaceeffect"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"worldvertexalpha"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"screenspace_general_dx8"
+	{
+		"$texture2"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$texture1"		"1"
+		"$texture3"		"1"
+	}
+	"water_dx81"
+	{
+		"$reflecttexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$envmap"		"1"
+		"$refracttexture"		"1"
+	}
+	"sky_hdr_dx9"
+	{
+		"$hdrcompressedtexture1"		"1"
+		"$basetexture"		"1"
+		"$hdrbasetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$hdrcompressedtexture"		"1"
+		"$hdrcompressedtexture0"		"1"
+		"$hdrcompressedtexture2"		"1"
+	}
+	"cloak"
+	{
+		"$phongexponenttexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$refracttinttexture"		"1"
+		"$lightwarptexture"		"1"
+	}
+	"Modulate"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"bufferclearobeystencil_dx6"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"shadowbuild_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"predator_dx80"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+	}
+	"Wireframe_DX9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"worldvertextransition_dx6"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$basetexture2"		"1"
+	}
+	"filmdust_dx8"
+	{
+		"$dust_texture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"lightmappedgeneric_nobump_dx8"
+	{
+		"$bumpmap"		"1"
+		"$albedo"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+	}
+	"blurfiltery"
+	{
+		"$frametexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"bloom"
+	{
+		"$blurtexture"		"1"
+		"$fbtexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"floattoscreen"
+	{
+		"$fbtexture"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"vortwarp"
+	{
+		"$phongexponenttexture"		"1"
+		"$bumpmap"		"1"
+		"$selfillummap"		"1"
+		"$albedo"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$flashlighttexture"		"1"
+		"$flowmap"		"1"
+		"$envmap"		"1"
+		"$lightwarptexture"		"1"
+		"$detail"		"1"
+		"$phongwarptexture"		"1"
+	}
+	"volumetricfog"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"sky_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"bik_dx80"
+	{
+		"$basetexture"		"1"
+		"$ytexture"		"1"
+		"$crtexture"		"1"
+		"$flashlighttexture"		"1"
+		"$cbtexture"		"1"
+	}
+	"DebugLuxels"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"sprite_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"accumbuff5sample"
+	{
+		"$texture0"		"1"
+		"$texture2"		"1"
+		"$texture4"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$texture1"		"1"
+		"$texture3"		"1"
+	}
+	"shadow_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"LightmappedGeneric"
+	{
+		"$bumpmap2"		"1"
+		"$bumpmap"		"1"
+		"$albedo"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$bumpmask"		"1"
+		"$flashlighttexture"		"1"
+		"$lightwarptexture"		"1"
+		"$envmap"		"1"
+		"$basetexture2"		"1"
+		"$detail"		"1"
+		"$blendmodulatetexture"		"1"
+	}
+	"writez_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"portalstaticoverlay"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$staticblendtexture"		"1"
+		"$alphamasktexture"		"1"
+	}
+	"eyeglint_dx9"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"warp"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"portal_dx80"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$staticblendtexture"		"1"
+		"$alphamasktexture"		"1"
+	}
+	"refract_dx60"
+	{
+		"$phongexponenttexture"		"1"
+		"$albedo"		"1"
+		"$basetexture"		"1"
+		"$envmapmask"		"1"
+		"$selfillummask"		"1"
+		"$flashlighttexture"		"1"
+		"$lightwarptexture"		"1"
+		"$envmap"		"1"
+		"$detail"		"1"
+		"$phongwarptexture"		"1"
+	}
+	"morphaccumulate_dx9"
+	{
+		"$delta"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$sidespeed"		"1"
+	}
+	"water_dx80"
+	{
+		"$reflecttexture"		"1"
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+		"$normalmap"		"1"
+		"$envmap"		"1"
+		"$refracttexture"		"1"
+	}
+	"Cable"
+	{
+		"$bumpmap"		"1"
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"DecalModulate"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"sample4x4_blend"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+	"pyro_vision"
+	{
+		"$colorbar"		"1"
+		"$basetexture"		"1"
+		"$warptexture"		"1"
+		"$vignette_tile"		"1"
+		"$flashlighttexture"		"1"
+		"$stripetexture"		"1"
+		"$vignette_texture"		"1"
+		"$basetexture2"		"1"
+		"$blendmodulatetexture"		"1"
+		"$canvas"		"1"
+		"$noisetexture"		"1"
+	}
+	"shadowbuild_dx8"
+	{
+		"$basetexture"		"1"
+		"$flashlighttexture"		"1"
+	}
+}
