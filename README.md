@@ -55,3 +55,4 @@ The 2020 version supported **Black Mesa Source** (BMS) as a target game. However
 - The Brazilian [**Oppressive Territory**](https://optr.me) community which helped me test this plugin. Don't forget to take a look at our HL2DM servers on **191.30.24.23:27015** and **191.30.24.23:27016**
 - The Brazilian player [**Naha **](https://github.com/gabrielmarquesm/) which helped me test and debug this plugin.
 - [**Abigail**](https://optr.me/Abigail.png), my adorable cat.
+- [DGB](https://rank.optr.me/hlstats.php?mode=playerinfo&player=562), [Lil Alvaro](https://rank.optr.me/hlstats.php?mode=playerinfo&player=561) and [Mahatma](https://rank.optr.me/hlstats.php?mode=playerinfo&player=465) for all the help and feedback during beta testing.
