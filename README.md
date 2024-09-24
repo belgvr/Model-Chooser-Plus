@@ -48,3 +48,10 @@ You can use the [**Directory Downloader plugin**](https://forums.alliedmods.net/
 
 ### BMS (Black Mesa Source) Compatibility
 The 2020 version supported **Black Mesa Source** (BMS) as a target game. However, I have not tested **Playermodel Chooser Plus** on BMS, and can only confirm functionality for **Half-Life 2 Deathmatch (HL2DM)** at this time. If you plan to use it for BMS, consider running your own tests, as there may be unforeseen issues.
+
+**Special thanks**:
+- To thank my adorable girlfriend for being patient during my hyper focused sessions i had during the development of this Plugin.
+- To the original Author [**AlienMario**](https://github.com/Alienmario), even though he was pretty busy, his original idea was a brilliant work.
+- The Brazilian [**Oppressive Territory**](https://optr.me) community which helped me test this plugin. Don't forget to take a look at our HL2DM servers on **191.30.24.23:27015** and **191.30.24.23:27016**
+- The Brazilian player [**Naha **](https://github.com/gabrielmarquesm/) which helped me test and debug this plugin.
+- [**Abigail**](https://optr.me/Abigail.png), my adorable cat.
